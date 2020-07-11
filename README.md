@@ -6,6 +6,6 @@ Project Euler is a series of challenging mathematical/computer programming probl
 The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 
 
-Official site: https://projecteuler.net/
+Official site: https://projecteuler.net/    tests: https://stepik.org/course/66763/syllabus
 
-In this repository will be my solution to the problems of the Euler project. 
+In this repository will be my solutions to the problems of the Euler project. 
